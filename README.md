@@ -9,3 +9,7 @@ This website showcases my projects and experience as a computer science student.
 - Resume: education, skills, and work history
 - Blog: short learning notes
 - Contact: a simple message form
+
+## Local preview
+
+Open `index.html` in a browser to preview the site locally.
